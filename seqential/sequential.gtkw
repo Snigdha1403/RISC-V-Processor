@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Mar  3 18:35:41 2025
+[*]
+[dumpfile] "/home/welcome/Downloads/sequentialm/sequential/Processor_tb.vcd"
+[dumpfile_mtime] "Mon Mar  3 18:34:28 2025"
+[dumpfile_size] 370011
+[savefile] "/home/welcome/Downloads/sequentialm/sequential/sequential.gtkw"
+[timestart] 0
+[size] 1920 935
+[pos] -51 -51
+*-14.796416 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 260
+@28
+processor_tb.ALUOp[1:0]
+processor_tb.ALUSrc
+processor_tb.Branch
+processor_tb.BranchZero
+processor_tb.MemRead
+processor_tb.MemWrite
+processor_tb.MemtoReg
+@22
+processor_tb.ReadData1[63:0]
+processor_tb.ReadData2[63:0]
+@28
+processor_tb.RegWrite
+processor_tb.clk
+@22
+processor_tb.pc_value[63:0]
+processor_tb.pcb[63:0]
+processor_tb.read_data[63:0]
+@28
+processor_tb.reset
+@22
+processor_tb.valE[63:0]
+processor_tb.write_data[63:0]
+@28
+processor_tb.zero_flag
+[pattern_trace] 1
+[pattern_trace] 0
